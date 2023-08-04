@@ -1,0 +1,75 @@
+{
+  "rooms": [
+    {
+      "name": "garden",
+      "id": 5,
+      "numOfDevices": 0,
+      "image": "5.jpg"
+    }
+  ],
+  "devices": [
+    {
+      "type": "mixer",
+      "stateOn": "images/mixer-on.svg",
+      "stateOff": "images/mixer-off.svg",
+      "state": 1,
+      "id": 14
+    },
+    {
+      "type": "mixer",
+      "stateOn": "images/mixer-on.svg",
+      "stateOff": "images/mixer-off.svg",
+      "state": 0,
+      "id": 15
+    },
+    {
+      "type": "oven",
+      "stateOn": "images/oven-on.svg",
+      "stateOff": "images/oven-off.svg",
+      "state": 0,
+      "id": 16
+    },
+    {
+      "type": "door",
+      "stateOn": "images/door-on.svg",
+      "stateOff": "images/door-off.svg",
+      "state": 1,
+      "id": 17
+    },
+    {
+      "type": "mixer",
+      "stateOn": "images/mixer-on.svg",
+      "stateOff": "images/mixer-off.svg",
+      "state": 1,
+      "id": 18
+    },
+    {
+      "type": "tv",
+      "stateOn": "images/tv-on.svg",
+      "stateOff": "images/tv-off.svg",
+      "state": 1,
+      "id": 19
+    },
+    {
+      "type": "tv",
+      "stateOn": "images/tv-on.svg",
+      "stateOff": "images/tv-off.svg",
+      "state": 1,
+      "id": 20
+    },
+    {
+      "type": "light",
+      "stateOn": "images/light-on.svg",
+      "stateOff": "images/light-off.svg",
+      "state": 1,
+      "id": 21
+    },
+    {
+      "type": "wifi",
+      "stateOn": "images/wifi-on.svg",
+      "stateOff": "images/wifi-off.svg",
+      "state": 1,
+      "id": 22
+    }
+  ]
+}
